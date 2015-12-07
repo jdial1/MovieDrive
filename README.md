@@ -1,4 +1,4 @@
-# MovieDrive1
+# MovieDrive
 Script to chromecast movies from usb drive to TV
 
 Currently runs video fullscreen through VLC Portable
