@@ -1,3 +1,0 @@
-https://alan-mushi.github.io/asap/2015/03/21/vlc-stream-to-chromecast.html
-
-https://www.reddit.com/r/Chromecast/comments/2kzbms/castnow_a_commandline_chromecast_player/
